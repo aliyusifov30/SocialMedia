@@ -1,0 +1,17 @@
+C:\Users\SWIFT\Desktop\Projects\SocialMedia\Infrastructure\SocialMedia.Infrastructure\bin\Debug\net7.0\SocialMedia.Infrastructure.deps.json
+C:\Users\SWIFT\Desktop\Projects\SocialMedia\Infrastructure\SocialMedia.Infrastructure\bin\Debug\net7.0\SocialMedia.Infrastructure.dll
+C:\Users\SWIFT\Desktop\Projects\SocialMedia\Infrastructure\SocialMedia.Infrastructure\bin\Debug\net7.0\SocialMedia.Infrastructure.pdb
+C:\Users\SWIFT\Desktop\Projects\SocialMedia\Infrastructure\SocialMedia.Infrastructure\obj\Debug\net7.0\SocialMedia.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\SWIFT\Desktop\Projects\SocialMedia\Infrastructure\SocialMedia.Infrastructure\obj\Debug\net7.0\SocialMedia.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SWIFT\Desktop\Projects\SocialMedia\Infrastructure\SocialMedia.Infrastructure\obj\Debug\net7.0\SocialMedia.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\SWIFT\Desktop\Projects\SocialMedia\Infrastructure\SocialMedia.Infrastructure\obj\Debug\net7.0\SocialMedia.Infrastructure.AssemblyInfo.cs
+C:\Users\SWIFT\Desktop\Projects\SocialMedia\Infrastructure\SocialMedia.Infrastructure\obj\Debug\net7.0\SocialMedia.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\SWIFT\Desktop\Projects\SocialMedia\Infrastructure\SocialMedia.Infrastructure\obj\Debug\net7.0\SocialMedia.Infrastructure.dll
+C:\Users\SWIFT\Desktop\Projects\SocialMedia\Infrastructure\SocialMedia.Infrastructure\obj\Debug\net7.0\refint\SocialMedia.Infrastructure.dll
+C:\Users\SWIFT\Desktop\Projects\SocialMedia\Infrastructure\SocialMedia.Infrastructure\obj\Debug\net7.0\SocialMedia.Infrastructure.pdb
+C:\Users\SWIFT\Desktop\Projects\SocialMedia\Infrastructure\SocialMedia.Infrastructure\obj\Debug\net7.0\ref\SocialMedia.Infrastructure.dll
+C:\Users\SWIFT\Desktop\Projects\SocialMedia\Infrastructure\SocialMedia.Infrastructure\bin\Debug\net7.0\SocialMedia.Application.dll
+C:\Users\SWIFT\Desktop\Projects\SocialMedia\Infrastructure\SocialMedia.Infrastructure\bin\Debug\net7.0\SocialMedia.Domain.dll
+C:\Users\SWIFT\Desktop\Projects\SocialMedia\Infrastructure\SocialMedia.Infrastructure\bin\Debug\net7.0\SocialMedia.Application.pdb
+C:\Users\SWIFT\Desktop\Projects\SocialMedia\Infrastructure\SocialMedia.Infrastructure\bin\Debug\net7.0\SocialMedia.Domain.pdb
+C:\Users\SWIFT\Desktop\Projects\SocialMedia\Infrastructure\SocialMedia.Infrastructure\obj\Debug\net7.0\SocialMedia.Infrastructure.csproj.CopyComplete

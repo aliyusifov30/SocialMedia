@@ -1,0 +1,12 @@
+C:\Users\SWIFT\Desktop\Projects\SocialMedia\Core\SocialMedia.Domain\bin\Debug\net7.0\SocialMedia.Domain.deps.json
+C:\Users\SWIFT\Desktop\Projects\SocialMedia\Core\SocialMedia.Domain\bin\Debug\net7.0\SocialMedia.Domain.dll
+C:\Users\SWIFT\Desktop\Projects\SocialMedia\Core\SocialMedia.Domain\bin\Debug\net7.0\SocialMedia.Domain.pdb
+C:\Users\SWIFT\Desktop\Projects\SocialMedia\Core\SocialMedia.Domain\obj\Debug\net7.0\SocialMedia.Domain.csproj.AssemblyReference.cache
+C:\Users\SWIFT\Desktop\Projects\SocialMedia\Core\SocialMedia.Domain\obj\Debug\net7.0\SocialMedia.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SWIFT\Desktop\Projects\SocialMedia\Core\SocialMedia.Domain\obj\Debug\net7.0\SocialMedia.Domain.AssemblyInfoInputs.cache
+C:\Users\SWIFT\Desktop\Projects\SocialMedia\Core\SocialMedia.Domain\obj\Debug\net7.0\SocialMedia.Domain.AssemblyInfo.cs
+C:\Users\SWIFT\Desktop\Projects\SocialMedia\Core\SocialMedia.Domain\obj\Debug\net7.0\SocialMedia.Domain.csproj.CoreCompileInputs.cache
+C:\Users\SWIFT\Desktop\Projects\SocialMedia\Core\SocialMedia.Domain\obj\Debug\net7.0\SocialMedia.Domain.dll
+C:\Users\SWIFT\Desktop\Projects\SocialMedia\Core\SocialMedia.Domain\obj\Debug\net7.0\refint\SocialMedia.Domain.dll
+C:\Users\SWIFT\Desktop\Projects\SocialMedia\Core\SocialMedia.Domain\obj\Debug\net7.0\SocialMedia.Domain.pdb
+C:\Users\SWIFT\Desktop\Projects\SocialMedia\Core\SocialMedia.Domain\obj\Debug\net7.0\ref\SocialMedia.Domain.dll
