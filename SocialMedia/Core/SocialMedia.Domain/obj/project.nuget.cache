@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "IFT/ZVo5h05TYE9URkeKE+jr+dWEq/FLEYdO9hJA4n/7Ld3GHL2eBx4uabVmByN/4xl753Lwan9MrUqYedRoyQ==",
+  "dgSpecHash": "CJQVLcif1aV0mWzMiVZyPwdDbD4iayQZnSGR0jxTs+KN6BXsZzAdTvw/3O46uHHHHHb6Eobm5tTuuUdfePncZg==",
   "success": true,
   "projectFilePath": "C:\\Users\\SWIFT\\Desktop\\Projects\\SocialMedia\\Core\\SocialMedia.Domain\\SocialMedia.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SWIFT\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.3\\microsoft.aspnetcore.cryptography.internal.7.0.3.nupkg.sha512",
     "C:\\Users\\SWIFT\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.3\\microsoft.aspnetcore.cryptography.keyderivation.7.0.3.nupkg.sha512",
+    "C:\\Users\\SWIFT\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
     "C:\\Users\\SWIFT\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\SWIFT\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\SWIFT\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",

@@ -19,6 +19,7 @@ namespace SocialMedia.Persistence.Contexts
         }
         
         public DbSet<AppUser> AppUsers { get; set; }
+        public DbSet<Post> Posts { get; set; }
 
     }
 }

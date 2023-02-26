@@ -1,9 +1,13 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
+using SocialMedia.Application.Abstractions.Services.LocalServices;
+using SocialMedia.Application.Repositories.PostRepositories;
 using SocialMedia.Domain.Entities;
+using SocialMedia.Persistence.Concretes.Services.LocalServices;
 using SocialMedia.Persistence.Configurations;
 using SocialMedia.Persistence.Contexts;
+using SocialMedia.Persistence.Repositories.PostRepositories;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -28,6 +32,10 @@ namespace SocialMedia.Persistence
                     opt.Password.RequireUppercase = false;
                     opt.Password.RequireNonAlphanumeric = false;
                 }).AddEntityFrameworkStores<SocialMediaContext>();
+
+
+            services.AddScoped<IPostRepository, PostRepository>();
+            services.AddScoped<ILocalFileService, LocalFileService>();
         }
 
     }

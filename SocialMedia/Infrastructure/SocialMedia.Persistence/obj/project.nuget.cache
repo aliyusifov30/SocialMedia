@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "+UOmt3BUm2i1yJbspZx9rNA7GGrhtmoZgQyxMraM5xpzimIT+/tRub1ADrEds3mnvfqLp2mCUcUlSpvBOvt4vg==",
+  "dgSpecHash": "vI8oGnItwM2f/dOAP+DReOq6prb0CC7S8m4NKdc+YUj+Y7aqG1hZBEHk7KsvbBusyp9qBr5Fd0TEXJ3hd2Nn/g==",
   "success": true,
   "projectFilePath": "C:\\Users\\SWIFT\\Desktop\\Projects\\SocialMedia\\Infrastructure\\SocialMedia.Persistence\\SocialMedia.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SWIFT\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\SWIFT\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\SWIFT\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\SWIFT\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\SWIFT\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\SWIFT\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\SWIFT\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\SWIFT\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\SWIFT\\.nuget\\packages\\microsoft.aspnetcore.authentication.cookies\\2.2.0\\microsoft.aspnetcore.authentication.cookies.2.2.0.nupkg.sha512",

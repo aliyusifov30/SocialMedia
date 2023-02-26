@@ -16,12 +16,12 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
+    <ProjectReference Include="..\..\Infrastructure\SocialMedia.Infrastructure\SocialMedia.Infrastructure.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\SocialMedia.Persistence\SocialMedia.Persistence.csproj" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Infrastructure\SocialMedia.Infrastructure\SocialMedia.Infrastructure.csproj" />
-    <ProjectReference Include="..\..\Infrastructure\SocialMedia.Persistence\SocialMedia.Persistence.csproj" />
+    <Folder Include="wwwroot\uploads\posts\" />
   </ItemGroup>
 
 </Project>

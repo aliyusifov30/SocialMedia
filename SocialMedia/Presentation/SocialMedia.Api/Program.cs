@@ -1,3 +1,4 @@
+using SocialMedia.Application;
 using SocialMedia.Persistence;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -9,6 +10,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+builder.Services.AddApplicationService();
 builder.Services.AddPersistenceService();
 
 var app = builder.Build();
