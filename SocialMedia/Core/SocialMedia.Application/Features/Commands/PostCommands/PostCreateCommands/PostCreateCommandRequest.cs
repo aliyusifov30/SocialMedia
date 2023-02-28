@@ -12,5 +12,7 @@ namespace SocialMedia.Application.Features.Commands.PostCommands.PostCreateComma
     {
         public string Title { get; set; }
         public IFormFile Content { get; set; }
+        public string? UserName { get; set; }
+
     }
 }

@@ -92,3 +92,5 @@ C:\Users\SWIFT\Desktop\Projects\SocialMedia\Presentation\SocialMedia.Api\obj\Deb
 C:\Users\SWIFT\Desktop\Projects\SocialMedia\Presentation\SocialMedia.Api\obj\Debug\net7.0\SocialMedia.Api.genruntimeconfig.cache
 C:\Users\SWIFT\Desktop\Projects\SocialMedia\Presentation\SocialMedia.Api\obj\Debug\net7.0\ref\SocialMedia.Api.dll
 C:\Users\SWIFT\Desktop\Projects\SocialMedia\Presentation\SocialMedia.Api\bin\Debug\net7.0\SocialMedia.Api.staticwebassets.runtime.json
+C:\Users\SWIFT\Desktop\Projects\SocialMedia\Presentation\SocialMedia.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\SWIFT\Desktop\Projects\SocialMedia\Presentation\SocialMedia.Api\bin\Debug\net7.0\AutoMapper.dll

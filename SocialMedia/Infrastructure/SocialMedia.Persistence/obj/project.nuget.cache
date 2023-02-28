@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "vI8oGnItwM2f/dOAP+DReOq6prb0CC7S8m4NKdc+YUj+Y7aqG1hZBEHk7KsvbBusyp9qBr5Fd0TEXJ3hd2Nn/g==",
+  "dgSpecHash": "1pkPkx4mX4vg5mAZrs4f0GjwdRmwkSDja18Jf2YKYawd/hMpt+rAYI2KMHb7ERl+iFSrRoZemHrHav6emBWyew==",
   "success": true,
   "projectFilePath": "C:\\Users\\SWIFT\\Desktop\\Projects\\SocialMedia\\Infrastructure\\SocialMedia.Persistence\\SocialMedia.Persistence.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\SWIFT\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\SWIFT\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\SWIFT\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\SWIFT\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
@@ -28,7 +29,7 @@
     "C:\\Users\\SWIFT\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\7.0.3\\microsoft.aspnetcore.identity.entityframeworkcore.7.0.3.nupkg.sha512",
     "C:\\Users\\SWIFT\\.nuget\\packages\\microsoft.aspnetcore.webutilities\\2.2.0\\microsoft.aspnetcore.webutilities.2.2.0.nupkg.sha512",
     "C:\\Users\\SWIFT\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
-    "C:\\Users\\SWIFT\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\SWIFT\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\SWIFT\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.1\\microsoft.data.sqlclient.5.0.1.nupkg.sha512",
     "C:\\Users\\SWIFT\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.0.1\\microsoft.data.sqlclient.sni.runtime.5.0.1.nupkg.sha512",
     "C:\\Users\\SWIFT\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.3\\microsoft.entityframeworkcore.7.0.3.nupkg.sha512",

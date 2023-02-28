@@ -11,5 +11,9 @@ namespace SocialMedia.Domain.Entities
     {
         public string Title { get; set; }
         public string Content { get; set; }
+
+
+        public string AppUserId { get; set; }
+        public AppUser AppUser { get; set; }
     }
 }

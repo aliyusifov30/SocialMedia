@@ -21,7 +21,7 @@ namespace SocialMedia.Persistence.Repositories
         }
         public async Task AddAsync(T entity)
         {
-            await _context.AddAsync(entity); 
+            await _context.Set<T>().AddAsync(entity); 
         }
 
         public async Task<int> CommitAsync()

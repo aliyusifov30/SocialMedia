@@ -1,10 +1,14 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
+using SocialMedia.Application.Abstractions.Services.AccountServices;
 using SocialMedia.Application.Abstractions.Services.LocalServices;
+using SocialMedia.Application.Abstractions.Services.TokenServices;
 using SocialMedia.Application.Repositories.PostRepositories;
 using SocialMedia.Domain.Entities;
+using SocialMedia.Persistence.Concretes.Services.AccountServices;
 using SocialMedia.Persistence.Concretes.Services.LocalServices;
+using SocialMedia.Persistence.Concretes.Services.TokenServices;
 using SocialMedia.Persistence.Configurations;
 using SocialMedia.Persistence.Contexts;
 using SocialMedia.Persistence.Repositories.PostRepositories;
@@ -36,6 +40,8 @@ namespace SocialMedia.Persistence
 
             services.AddScoped<IPostRepository, PostRepository>();
             services.AddScoped<ILocalFileService, LocalFileService>();
+            services.AddScoped<IAccountService, AccountService>();
+            services.AddScoped<ITokenService, TokenService>();
         }
 
     }

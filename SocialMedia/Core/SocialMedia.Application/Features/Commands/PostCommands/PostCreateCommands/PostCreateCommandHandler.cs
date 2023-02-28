@@ -1,4 +1,6 @@
-﻿using MediatR;
+﻿using AutoMapper;
+using MediatR;
+using Microsoft.AspNetCore.Identity;
 using SocialMedia.Application.Abstractions.Services.LocalServices;
 using SocialMedia.Application.Repositories.PostRepositories;
 using SocialMedia.Domain.Entities;
@@ -10,26 +12,30 @@ namespace SocialMedia.Application.Features.Commands.PostCommands.PostCreateComma
 
         private readonly IPostRepository _postRepository;
         private readonly ILocalFileService _localFileService;
-        public PostCreateCommandHandler(IPostRepository postRepository, ILocalFileService localFileService)
+        private readonly IMapper _mapper;
+        private readonly UserManager<AppUser> _userManager;
+        public PostCreateCommandHandler(IPostRepository postRepository, ILocalFileService localFileService, IMapper mapper, UserManager<AppUser> userManager)
         {
             _postRepository = postRepository;
             _localFileService = localFileService;
+            _mapper = mapper;
+            _userManager = userManager;
         }
         public async Task<PostCreateCommandResponse> Handle(PostCreateCommandRequest request, CancellationToken cancellationToken)
         {
             var content = _localFileService.Upload(request.Content, "/uploads/posts/");
+            
+            var appUser = await _userManager.FindByNameAsync(request.UserName);
+
             await _postRepository.AddAsync(new Post()
             {
-                Title = request.Title,
-                Content = content
+                Content = content,
+                AppUser = appUser,
+                Title = request.Title
             });
             await _postRepository.CommitAsync();
-
-            return new PostCreateCommandResponse()
-            {
-                Title = request.Title,
-                Content = content
-            };
+           
+            return _mapper.Map<PostCreateCommandResponse>(request);
         }
     }
 }

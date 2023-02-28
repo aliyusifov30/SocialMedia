@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\SWIFT\\Desktop\\Projects\\SocialMedia\\Presentation\\SocialMedia.Api\\wwwroot\\uploads\\posts\\WhatsApp Image 2022-12-19 at 12.42.24.jpeg2a7b6df0-ce0d-4d58-be9e-c0846c16c38c",
+      "PackagePath": "staticwebassets\\uploads\\posts\\WhatsApp Image 2022-12-19 at 12.42.24.jpeg2a7b6df0-ce0d-4d58-be9e-c0846c16c38c"
+    },
+    {
+      "Id": "C:\\Users\\SWIFT\\Desktop\\Projects\\SocialMedia\\Presentation\\SocialMedia.Api\\wwwroot\\uploads\\posts\\WhatsApp Image 2022-12-19 at 12.42.24.jpeg49ac0149-8704-4e46-b49c-c4bdb232fbe1",
+      "PackagePath": "staticwebassets\\uploads\\posts\\WhatsApp Image 2022-12-19 at 12.42.24.jpeg49ac0149-8704-4e46-b49c-c4bdb232fbe1"
+    },
+    {
+      "Id": "C:\\Users\\SWIFT\\Desktop\\Projects\\SocialMedia\\Presentation\\SocialMedia.Api\\wwwroot\\uploads\\posts\\WhatsApp Image 2022-12-19 at 12.42.24.jpeg6a77cb9d-29bd-40af-9dd9-7345fded4bc5",
+      "PackagePath": "staticwebassets\\uploads\\posts\\WhatsApp Image 2022-12-19 at 12.42.24.jpeg6a77cb9d-29bd-40af-9dd9-7345fded4bc5"
+    },
+    {
+      "Id": "C:\\Users\\SWIFT\\Desktop\\Projects\\SocialMedia\\Presentation\\SocialMedia.Api\\wwwroot\\uploads\\posts\\WhatsApp Image 2022-12-19 at 12.42.24.jpeg779062db-0b93-4321-9a00-fccf90f3ae9b",
+      "PackagePath": "staticwebassets\\uploads\\posts\\WhatsApp Image 2022-12-19 at 12.42.24.jpeg779062db-0b93-4321-9a00-fccf90f3ae9b"
+    },
+    {
+      "Id": "C:\\Users\\SWIFT\\Desktop\\Projects\\SocialMedia\\Presentation\\SocialMedia.Api\\wwwroot\\uploads\\posts\\WhatsApp Image 2022-12-19 at 12.42.24.jpeg809e3e60-532d-4054-93b7-ba9c1bf455e1",
+      "PackagePath": "staticwebassets\\uploads\\posts\\WhatsApp Image 2022-12-19 at 12.42.24.jpeg809e3e60-532d-4054-93b7-ba9c1bf455e1"
+    },
+    {
+      "Id": "C:\\Users\\SWIFT\\Desktop\\Projects\\SocialMedia\\Presentation\\SocialMedia.Api\\wwwroot\\uploads\\posts\\WhatsApp Image 2022-12-19 at 12.42.24.jpeg99061f1a-0b51-4733-b638-48f4d1ceecc7",
+      "PackagePath": "staticwebassets\\uploads\\posts\\WhatsApp Image 2022-12-19 at 12.42.24.jpeg99061f1a-0b51-4733-b638-48f4d1ceecc7"
+    },
+    {
+      "Id": "C:\\Users\\SWIFT\\Desktop\\Projects\\SocialMedia\\Presentation\\SocialMedia.Api\\wwwroot\\uploads\\posts\\WhatsApp Image 2022-12-19 at 12.42.24.jpeg9b026f4d-dd53-4999-b380-b87467c50861",
+      "PackagePath": "staticwebassets\\uploads\\posts\\WhatsApp Image 2022-12-19 at 12.42.24.jpeg9b026f4d-dd53-4999-b380-b87467c50861"
+    },
+    {
+      "Id": "C:\\Users\\SWIFT\\Desktop\\Projects\\SocialMedia\\Presentation\\SocialMedia.Api\\wwwroot\\uploads\\posts\\WhatsApp Image 2022-12-19 at 12.42.24.jpegfa98264b-3396-423d-8c6d-e04a14d8e5fe",
+      "PackagePath": "staticwebassets\\uploads\\posts\\WhatsApp Image 2022-12-19 at 12.42.24.jpegfa98264b-3396-423d-8c6d-e04a14d8e5fe"
+    },
+    {
+      "Id": "C:\\Users\\SWIFT\\Desktop\\Projects\\SocialMedia\\Presentation\\SocialMedia.Api\\wwwroot\\uploads\\posts\\WhatsApp Image 2022-12-19 at 12.42.24.jpegff719c9b-a295-4d22-8aa5-6fe200cc5fc8",
+      "PackagePath": "staticwebassets\\uploads\\posts\\WhatsApp Image 2022-12-19 at 12.42.24.jpegff719c9b-a295-4d22-8aa5-6fe200cc5fc8"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.SocialMedia.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.SocialMedia.Api.props",
+      "PackagePath": "build\\SocialMedia.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.SocialMedia.Api.props",
+      "PackagePath": "buildMultiTargeting\\SocialMedia.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.SocialMedia.Api.props",
+      "PackagePath": "buildTransitive\\SocialMedia.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
