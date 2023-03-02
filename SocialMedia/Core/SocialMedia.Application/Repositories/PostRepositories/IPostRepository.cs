@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace SocialMedia.Application.Repositories.PostRepositories
 {
-    public interface IPostRepository : IRepository<Post>
+    public interface IPostRepository : IRepository<Post>, IRepositoryBaseEntity<Post>
     {
     }
 }

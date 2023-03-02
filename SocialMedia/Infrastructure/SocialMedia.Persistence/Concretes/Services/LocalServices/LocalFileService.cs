@@ -24,12 +24,8 @@ namespace SocialMedia.Persistence.Concretes.Services.LocalServices
         
         public string Upload(IFormFile file, string path)
         {
-            if(file.FileName.Length > 64)
-            {
-                file.FileName.Substring(0, 64);
-            }
-
-            string fileName = file.FileName + Guid.NewGuid();
+            
+            string fileName = Guid.NewGuid() + file.FileName;
             path =  _env.WebRootPath + path + fileName;
 
             using (var fileStream = new FileStream(path, FileMode.Create))

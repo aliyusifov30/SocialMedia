@@ -1,11 +1,11 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\posts\WhatsApp Image 2022-12-19 at 12.42.24.jpeg2a7b6df0-ce0d-4d58-be9e-c0846c16c38c))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\posts\3272b080-8f6e-45e3-b559-2c0ddf932810WhatsApp Image 2022-12-19 at 12.42.24.jpeg))">
       <SourceType>Package</SourceType>
       <SourceId>SocialMedia.Api</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/SocialMedia.Api</BasePath>
-      <RelativePath>uploads/posts/WhatsApp Image 2022-12-19 at 12.42.24.jpeg2a7b6df0-ce0d-4d58-be9e-c0846c16c38c</RelativePath>
+      <RelativePath>uploads/posts/3272b080-8f6e-45e3-b559-2c0ddf932810WhatsApp Image 2022-12-19 at 12.42.24.jpeg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -14,7 +14,135 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\posts\WhatsApp Image 2022-12-19 at 12.42.24.jpeg2a7b6df0-ce0d-4d58-be9e-c0846c16c38c))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\posts\3272b080-8f6e-45e3-b559-2c0ddf932810WhatsApp Image 2022-12-19 at 12.42.24.jpeg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\posts\39729e0f-af7d-4da1-875b-50a19fa1d2c0WhatsApp Image 2022-12-19 at 12.42.24.jpeg))">
+      <SourceType>Package</SourceType>
+      <SourceId>SocialMedia.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SocialMedia.Api</BasePath>
+      <RelativePath>uploads/posts/39729e0f-af7d-4da1-875b-50a19fa1d2c0WhatsApp Image 2022-12-19 at 12.42.24.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\posts\39729e0f-af7d-4da1-875b-50a19fa1d2c0WhatsApp Image 2022-12-19 at 12.42.24.jpeg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\posts\71e8b724-1d6b-44c9-83b1-9e7880c5b024WhatsApp Image 2022-12-19 at 12.42.24.jpeg))">
+      <SourceType>Package</SourceType>
+      <SourceId>SocialMedia.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SocialMedia.Api</BasePath>
+      <RelativePath>uploads/posts/71e8b724-1d6b-44c9-83b1-9e7880c5b024WhatsApp Image 2022-12-19 at 12.42.24.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\posts\71e8b724-1d6b-44c9-83b1-9e7880c5b024WhatsApp Image 2022-12-19 at 12.42.24.jpeg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\posts\91cb4ea0-24f9-42c7-8c23-e65fe1703574WhatsApp Image 2022-12-19 at 12.42.24.jpeg))">
+      <SourceType>Package</SourceType>
+      <SourceId>SocialMedia.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SocialMedia.Api</BasePath>
+      <RelativePath>uploads/posts/91cb4ea0-24f9-42c7-8c23-e65fe1703574WhatsApp Image 2022-12-19 at 12.42.24.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\posts\91cb4ea0-24f9-42c7-8c23-e65fe1703574WhatsApp Image 2022-12-19 at 12.42.24.jpeg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\posts\94fe7092-51c8-4676-bde0-d00103631dd5WhatsApp Image 2022-12-19 at 12.42.24.jpeg))">
+      <SourceType>Package</SourceType>
+      <SourceId>SocialMedia.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SocialMedia.Api</BasePath>
+      <RelativePath>uploads/posts/94fe7092-51c8-4676-bde0-d00103631dd5WhatsApp Image 2022-12-19 at 12.42.24.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\posts\94fe7092-51c8-4676-bde0-d00103631dd5WhatsApp Image 2022-12-19 at 12.42.24.jpeg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\posts\c25ba749-e1bb-4ed0-bb9c-4ab95beb30abWhatsApp Image 2022-12-19 at 12.42.24.jpeg))">
+      <SourceType>Package</SourceType>
+      <SourceId>SocialMedia.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SocialMedia.Api</BasePath>
+      <RelativePath>uploads/posts/c25ba749-e1bb-4ed0-bb9c-4ab95beb30abWhatsApp Image 2022-12-19 at 12.42.24.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\posts\c25ba749-e1bb-4ed0-bb9c-4ab95beb30abWhatsApp Image 2022-12-19 at 12.42.24.jpeg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\posts\df5a2562-2cdc-43b5-b106-91c2545be292WhatsApp Image 2022-12-19 at 12.42.24.jpeg))">
+      <SourceType>Package</SourceType>
+      <SourceId>SocialMedia.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SocialMedia.Api</BasePath>
+      <RelativePath>uploads/posts/df5a2562-2cdc-43b5-b106-91c2545be292WhatsApp Image 2022-12-19 at 12.42.24.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\posts\df5a2562-2cdc-43b5-b106-91c2545be292WhatsApp Image 2022-12-19 at 12.42.24.jpeg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\posts\WhatsApp Image 2022-12-19 at 12.42.24.jpeg0c7aff00-cb5b-4871-a360-63cbba4b1042))">
+      <SourceType>Package</SourceType>
+      <SourceId>SocialMedia.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SocialMedia.Api</BasePath>
+      <RelativePath>uploads/posts/WhatsApp Image 2022-12-19 at 12.42.24.jpeg0c7aff00-cb5b-4871-a360-63cbba4b1042</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\posts\WhatsApp Image 2022-12-19 at 12.42.24.jpeg0c7aff00-cb5b-4871-a360-63cbba4b1042))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\posts\WhatsApp Image 2022-12-19 at 12.42.24.jpeg2a7b6df0-ce0d-4d58-be9e-c0846c16c38c.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>SocialMedia.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SocialMedia.Api</BasePath>
+      <RelativePath>uploads/posts/WhatsApp Image 2022-12-19 at 12.42.24.jpeg2a7b6df0-ce0d-4d58-be9e-c0846c16c38c.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\posts\WhatsApp Image 2022-12-19 at 12.42.24.jpeg2a7b6df0-ce0d-4d58-be9e-c0846c16c38c.png))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\posts\WhatsApp Image 2022-12-19 at 12.42.24.jpeg49ac0149-8704-4e46-b49c-c4bdb232fbe1))">
       <SourceType>Package</SourceType>
@@ -47,6 +175,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\posts\WhatsApp Image 2022-12-19 at 12.42.24.jpeg6a77cb9d-29bd-40af-9dd9-7345fded4bc5))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\posts\WhatsApp Image 2022-12-19 at 12.42.24.jpeg72a65508-f0d9-4c82-a177-dfdddef54af4))">
+      <SourceType>Package</SourceType>
+      <SourceId>SocialMedia.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SocialMedia.Api</BasePath>
+      <RelativePath>uploads/posts/WhatsApp Image 2022-12-19 at 12.42.24.jpeg72a65508-f0d9-4c82-a177-dfdddef54af4</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\posts\WhatsApp Image 2022-12-19 at 12.42.24.jpeg72a65508-f0d9-4c82-a177-dfdddef54af4))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\posts\WhatsApp Image 2022-12-19 at 12.42.24.jpeg779062db-0b93-4321-9a00-fccf90f3ae9b))">
       <SourceType>Package</SourceType>

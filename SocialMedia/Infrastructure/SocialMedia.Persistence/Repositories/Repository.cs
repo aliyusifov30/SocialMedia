@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 
 namespace SocialMedia.Persistence.Repositories
 {
-    public class Repository<T> : IRepository<T> where T : BaseEntity
+    public class Repository<T> : IRepository<T> where T : class
     {
         private readonly SocialMediaContext _context;
         public Repository(SocialMediaContext context)
@@ -36,24 +36,23 @@ namespace SocialMedia.Persistence.Repositories
 
         public async Task<T> GetAsync(Expression<Func<T, bool>> expression, bool tracking = true)
         {
-            return await _context.Set<T>().FirstOrDefaultAsync(expression);
+            var response = await _context.Set<T>().FirstOrDefaultAsync(expression);
+            return response;
         }
-
-        public async Task<T> GetByIdAsync(int id, bool tracking = true)
+        public async Task<T> GetAsync(Expression<Func<T, bool>> expression, bool tracking = true, params string[] includes)
         {
-            return await _context.Set<T>().FirstOrDefaultAsync(x=>x.Id == id);
+            var query = _context.Set<T>().AsQueryable();
+            foreach (var item in includes)
+            {
+                query = query.Include(item);
+            }
+            var response = await query.FirstOrDefaultAsync(expression);
+            return response;
         }
-
-        public async Task Remove(int id)
+        public async Task Remove(Expression<Func<T, bool>> expression)
         {
-            var entity = await GetByIdAsync(id);
+            var entity = await GetAsync(expression);
             _context.Set<T>().Remove(entity);
-        }
-
-        public async Task UnActive(int id)
-        {
-            var entity = await GetByIdAsync(id);
-            entity.IsDeleted = true;
         }
     }
 }

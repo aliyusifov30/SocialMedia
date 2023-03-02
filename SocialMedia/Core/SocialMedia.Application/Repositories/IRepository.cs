@@ -12,10 +12,11 @@ namespace SocialMedia.Application.Repositories
     {
         Task<int> CommitAsync();
         Task AddAsync(T entity);
-        Task<T> GetByIdAsync(int id, bool tracking = true);
         Task<T> GetAsync(Expression<Func<T, bool>> expression, bool tracking = true);
+        Task<T> GetAsync(Expression<Func<T, bool>> expression, bool tracking = true, params string[] includes);
         Task<ICollection<T>> GetAllAsync(Expression<Func<T, bool>> expression, bool tracking = true);
-        Task Remove(int id);
-        Task UnActive(int id);
+        Task Remove(Expression<Func<T, bool>> expression);
+
+
     }
 }
